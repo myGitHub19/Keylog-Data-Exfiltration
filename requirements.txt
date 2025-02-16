@@ -1,0 +1,4 @@
+crypto~=1.4.1
+pycryptodome~=3.21.0
+keyboard~=0.13.5
+pynput~=1.7.7
